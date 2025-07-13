@@ -1,0 +1,1 @@
+menuclick=pygame.mixer.Sound("Sounds/menu_click.mp3")
